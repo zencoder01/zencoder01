@@ -28,7 +28,6 @@
 ## Featured Projects
 
 - [career-ops-codex](https://github.com/zencoder01/career-ops-codex) - OpenAI Codex adaptation of Career-Ops workflow
-- [artemis777-portfolio](https://github.com/zencoder01/artemis777-portfolio) - Portfolio project
 - [sbgpt](https://github.com/zencoder01/sbgpt) - WhatsApp assistant
 - [valhalla](https://github.com/zencoder01/valhalla) - Vulnerability discovery toolkit (Shodan + domain scanning)
 - [DerivTestedBots1](https://github.com/zencoder01/DerivTestedBots1) - Automated trading bot experiments
